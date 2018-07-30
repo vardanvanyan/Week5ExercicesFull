@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_shoes"
+            android:icon="@drawable/shoes"
+            android:title="@string/shoes_id" />
+        <item
+            android:id="@+id/nav_bicycles"
+            android:icon="@drawable/bicycle"
+            android:title="@string/bicycles_id" />
+        <item
+            android:id="@+id/nav_watches"
+            android:icon="@drawable/watch"
+            android:title="@string/watches_id" />
+        <item
+            android:id="@+id/nav_jackets"
+            android:icon="@drawable/jacket"
+            android:title="@string/jackets_id" />
+
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_card"
+                android:icon="@drawable/ic_cart_24dp"
+                android:title="@string/com_cart_id" />
+            <item
+                android:id="@+id/nav_heart"
+                android:icon="@drawable/ic_fav_24dp"
+                android:title="@string/com_like_id" />
+        </menu>
+    </item>
+
+</menu>

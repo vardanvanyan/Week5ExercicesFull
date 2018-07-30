@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">Week4Exercices2Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_goods_description">GoodsDescriptionActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+
+    </string>
+    <string name="todo">TODO</string>
+    <string name="online_shopping">Online shopping</string>
+    <string name="redline_store">RedLine store</string>
+    <string name="shoes">shoes</string>
+    <string name="shoes_id">Shoes</string>
+    <string name="bicycles_id">Bicycles</string>
+    <string name="watches_id">Watches</string>
+    <string name="jackets_id">Jackets</string>
+    <string name="com_like_id">Like</string>
+    <string name="com_cart_id">Cart</string>
+    <string name="communicate">Communicate</string>
+
+    <string name="hypervenom">
+
+        The Nike Hypervenom is a football boot that is manufactured by Nike. This type of boot
+        is said to be for traction, power, and agility, designed for deceptive players. Therefore,
+        it is endorsed/worn by players, notably forwards, such as Robert Lewandowski, Kylian
+        Mbappé, Harry Kane, Edinson Cavani, Gonzalo Higuaín, Marcus Rashford, Mauro Icardi,
+        Riyad Mahrez, Aubameyang and Thiago.[1][2]
+
+In May 2013, the Nike Hypervenom Phantom was launched. It was launched and designed for Brazilian
+        forward Neymar.[3] The boot is currently in its third version. There is one high-end model
+        for the first version, the Hypervenom Phantom; whereas, there are two high-end models for
+        the second version—the Nike Hypervenom Phantom II, which is a mid-cut variant and the Nike
+        Hypervenom Phinish, the low-cut variant. However, Nike chose to discontinue the Nike
+        Hypervenom Phinish from the third silo onwards due to confusion that the mid-cut version
+        was better than the low-cut. The mid-cut version will be called "Hypervenom Phantom DF".[4]
+
+The boot is available in Soft Ground (SG), Firm Ground (FG) or Artificial Ground (AG) versions in
+        which all feature a glass nylon soleplate. There are also Turf (TF) and Indoor (IC)
+        versions, in which the high-end model of these variants is the Nike HypervenomX Proximo.
+        The SG soleplate features 6 removable aluminium studs, in which different studs with
+        different lengths can be used, and 6 fixed bladed studs. The FG version has 12 bladed
+        and conical studs. The AG model contains many circular and hollow studs, meant to have
+        more pressure distribution and trapping air to reduce impact and prevent injuries.
+    </string>
+    <string name="lunar">The Lunar Gato 2 Premium is all about comfort. Combining extremely soft
+        goat leather and Hyperfuse to make up the upper, along with Lunarlon foam cushioning to
+        make for one of the most comfortable indoor soccer shoes that I’ve personally ever worn.
+        From right out of the box the shoes are very comfortable, making for a shoe that requires
+        very little break-in time. The goat leather upper provides a pillow-like softness against
+        the foot while also maintaining a very flexible feel. When you pull the laces tight, you’ll
+        find that the thin Hyperfuse section through the mid-foot provides some solid lock-down
+        without feeling too restrictive. My one complaint regarding the comfort of the boot would
+        be the mesh tongue. The tongue itself is nicely padded, but because the padding is so soft,
+        it doesn’t provide much protection for your foot when pulling the laces tight, so if you
+        tend to tie your shoes really tight, you may run into some minor issues with lace-bite.
+
+Other comfort elements include a combination mesh and suede heel liner, providing a secure yet
+        cushioned feel against the back of your foot. The Lunarlon outsole provides above average
+        cushioning for an indoor soccer/futsal shoe, while still maintaining a low-profile. You’ll
+        find that the back half of the shoe is by far the most cushioned, while the forefoot area
+        of the sole is much less cushioned. The Lunarlon outsole provides a great mixture of
+        cushion and responsive when running, which is hard to find from most indoor soccer shoes.
+        The insole is also fully removable, providing great step-in comfort, as well as giving you
+        the option to swap it out for something else if you choose to do so.</string>
+    <string name="lunar_gato">The Lunar Gato 2 Premium is all about comfort. Combining extremely soft
+        goat leather and Hyperfuse to make up the upper, along with Lunarlon foam cushioning to
+        make for one of the most comfortable indoor soccer shoes that I’ve personally ever worn.
+        From right out of the box the shoes are very comfortable, making for a shoe that requires
+        very little break-in time. The goat leather upper provides a pillow-like softness against
+        the foot while also maintaining a very flexible feel. When you pull the laces tight, you’ll
+        find that the thin Hyperfuse section through the mid-foot provides some solid lock-down
+        without feeling too restrictive. My one complaint regarding the comfort of the boot would
+        be the mesh tongue. The tongue itself is nicely padded, but because the padding is so soft,
+        it doesn’t provide much protection for your foot when pulling the laces tight, so if you
+        tend to tie your shoes really tight, you may run into some minor issues with lace-bite.
+
+Other comfort elements include a combination mesh and suede heel liner, providing a secure yet
+        cushioned feel against the back of your foot. The Lunarlon outsole provides above average
+        cushioning for an indoor soccer/futsal shoe, while still maintaining a low-profile. You’ll
+        find that the back half of the shoe is by far the most cushioned, while the forefoot area
+        of the sole is much less cushioned. The Lunarlon outsole provides a great mixture of
+        cushion and responsive when running, which is hard to find from most indoor soccer shoes.
+        The insole is also fully removable, providing great step-in comfort, as well as giving you
+        the option to swap it out for something else if you choose to do so.</string>
+    <string name="audi">The Audi E-bike is based on custom carbon fiber wheels and a full-suspension
+        carbon fiber frame; even the front suspension forks are custom designed for this bike.
+        The rims look very similar in design to those on the $80K Blacktrail, leading to
+        speculation by some in the E-bike community that this bike was partially designed by
+        PG Bikes, the company behind the Blacktrail.  Certainly at least the Audi ebike designers
+        had the obscenely-priced Blacktrail in mind when they designed their bike.
+
+The Audi E-bike also uses the same “Harmonic Drive System” as the Blacktrail, a highly regarded
+        German design developed by Clean Mobile. Clean Mobile builds custom bottom-bracket drive
+        systems for exclusive high end bikes made by innovative European companies such as KTM
+        (see Egnition article here). Ironically Clean Mobile also went through an ownership change
+        recently, first filing insolvency, and then being acquired by TQ-Systems GmbH, and
+        switching most of its staff just last month.</string>
+    <string name="swatch">Red translucent plastic case with a black silicone strap. Fixed black
+        plastic bezel. Black dial with black hands with dot hour markers. Minute markers around the
+        outer rim. Dial Type: Analog. Luminescent hands. Date display at the 3 oclock position.
+        Automatic movement. Scratch resistant sapphire crystal. Pull / push crown. Transparent
+        case back. Case diameter: 39 mm. Case thickness: 14 mm. Round case shape. Band width: 20
+        mm. Band length: 8.5 inches. Tang clasp. Water resistant at 30 meters / 100 feet. Functions:
+        date, hour, minute, second. Casual watch style. Watch label: Swiss Made. Swatch Sistem Red
+        Automatic Black Dial Black Silicone Unisex Watch SUTR400.</string>
+    <string name="jacket_red">A windbreaker, a windcheater, or a dutch-oven is a thin fabric coat
+        designed to resist wind chill and light rain, making it a lighter version of the jacket.
+        It is usually of lightweight construction and characteristically made of some type of
+        synthetic material. A windbreaker often uses elastic waistbands, and/or armbands, and a
+        zipper to allow adjustments for the current weather conditions.
+
+Regular jackets, coats, etc. may include a type of windbreaker as an interlining that can be
+        removed when desired. Windbreakers sometimes include a hood that may be removable and/or
+        stowable. Many windbreakers may also include large pockets on the inside or the outside
+        which allows belongings to be covered from weather such as light wind or rain as mentioned
+        above. Windbreakers offer light to moderate insulating protection, more so than a sweater,
+        but less than an overcoat.[1]
+Windbreakers are primarily worn during the warmer seasons when wind or rain are expected, or as
+        part of a layering strategy during colder seasons.[2] Brightly colored windbreakers may
+        also be worn by runners as protection from the weather, and as a reflective garment used
+        for safety.[citation needed] A 2012 study demonstrated that adding windbreaker pants and
+        jackets offers a lightweight but effective means of delaying hypothermia if the user is
+        outside walking and encounters unexpected low temperatures.[3]</string>
+    <string name="rolex">Rolex SA (/ˈroʊlɛks/) is a Swiss luxury watchmaker. The company and its
+        subsidiary Montres Tudor SA design, manufacture, distribute and service wristwatches sold
+        under the Rolex and Tudor brands. Founded by Hans Wilsdorf and Alfred Davis in London,
+        England in 1905 as Wilsdorf and Davis, Rolex moved its base of operations to Geneva,
+        Switzerland in 1919.
+Forbes ranked Rolex 64th on its 2016 list of the world's most powerful global brands.[1] Rolex
+        is the largest single high end watch brand, producing about 2,000 watches per day.[2]
+
+The company is owned by the Hans Wilsdorf Foundation, a private family trust.</string>
+    <string name="hummer_bicycle">The new Hummer bicycle with its shimano 21 gearbox system make
+        riding easier for you.It has V brake in rear and disk brake in front that brings more
+        safety for riders. This bicycle is equipped with front shock- absorbers which facilitate
+        riding. The folding option of this bicycle is placed in the middle of it and it gives more
+        space in home and owner can easily put in his car trunk</string>
+    <string name="runner_jacket">In 2016, the year of sport’s ultimate competition, Nike is
+        celebrating its foremost apparel icon: the Nike Windrunner Jacket. Designed in the late
+        70s, the silhouette has been a fixture on medal stands and city streets ever since.
+        Seen on everyone from distance runners to spinning b-boys, the jacket continues to
+        evolve and serve as a collaborative canvas, a practice that picks up in 2016: The Year
+        of the Windrunner.​ </string>
+    <string name="hyper_jacket">
+Nike Hyperadapt 1.0
+The Nike HyperAdapt 1.0 is the first self-lacing shoe made directly available for retail.
+        The design of the footwear was executed by Tinker Hatfield accompanied by Mark Parker,
+        who was heavily involved in the development. Utilizing an electro adaptive lacing system
+        abbreviated as "E.A.R.L.", the sneaker technically autonomously conforms to the figuration
+        of one’s foot.[1] On December, 1st 2016, they were officially released in limited quantity
+        for $720.[2] The Hyperadapt has been released several times since the initial release date
+        in extremely small quantity.[3]</string>
+
+</resources>
